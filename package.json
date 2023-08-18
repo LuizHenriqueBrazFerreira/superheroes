@@ -1,0 +1,27 @@
+{
+  "name": "superheroes",
+  "version": "1.0.0",
+  "description": "Randomizer SuperHeroes",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LuizHenriqueBrazFerreira/superheroes.git"
+  },
+  "keywords": [
+    "randomizer/",
+    "super-heroes"
+  ],
+  "author": "Luiz Henrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuizHenriqueBrazFerreira/superheroes/issues"
+  },
+  "homepage": "https://github.com/LuizHenriqueBrazFerreira/superheroes#readme",
+  "dependencies": {
+    "@trybe/eslint-config-frontend": "^1.11.3",
+    "sweetalert2": "^11.7.23"
+  }
+}
